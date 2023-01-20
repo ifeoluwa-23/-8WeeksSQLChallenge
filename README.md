@@ -5,7 +5,7 @@ This repository contains the 8 Week SQL Challenge initiated by Data With Danny v
 Link to the challenge is [here](https://8weeksqlchallenge.com/getting-started/)
 
 ### Case Studies
- - Case Study #1 - Danny’s Diner
+ - [Case Study #1 - Danny’s Diner](https://github.com/ifeoluwa-23/8WeeksSQLChallenge/tree/main/Case%20Study%20%231)
  - Case Study #2 - Pizza Runner
  - Case Study #3 - Foodie-Fi
  - Case Study #4 - Data Bank
